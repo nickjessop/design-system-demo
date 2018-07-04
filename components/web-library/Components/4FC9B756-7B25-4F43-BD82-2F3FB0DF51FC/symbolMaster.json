@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "485B0871-24AF-4B94-8697-4DC4BC1D1494",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 387,
+  "do_objectID": "4FC9B756-7B25-4F43-BD82-2F3FB0DF51FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F747EB58-50EA-404F-87DC-6E5FD2AED736",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0575BA09-E14E-4375-8DB2-A7E081742376",
+    "height": 36,
+    "width": 108,
+    "x": 1562,
+    "y": -25
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "29600B55-655B-4853-BF40-D8E5E0B94171",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E9E1C089-CE35-497A-9DCD-9310FE6030B7"
+    }
+  ],
+  "name": "Toggle",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E8D66D4-D8E8-4A2E-AF8B-1A2DC712D07B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5923C1E9-2052-4901-89E9-07B5CC09CB37",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7755826B-D522-4191-ABD4-41F66570CD64",
+    "guides": [
+    ]
+  }
+}
