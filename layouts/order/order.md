@@ -1,3 +1,3 @@
-#ORDER PAGE
+#ORDER LAYOUT
 
 Documentation for the order page
