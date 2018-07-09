@@ -12959,15 +12959,13 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "do_objectID": "9B19C945-2A73-424D-9220-8A7D1BEF51D4",
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 89,
-        "do_objectID": "ED8917D3-9482-4664-9796-08B86C910B71",
+        "changeIdentifier": 54,
+        "do_objectID": "5A0F27E8-F9FB-44DA-80A4-9258CAC4818A",
         "exportOptions": {
           "_class": "exportOptions",
-          "do_objectID": "DE1C20ED-379C-465F-835C-216696E26C6B",
           "exportFormats": [
           ],
           "includedLayerIds": [
@@ -12978,10 +12976,9 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "do_objectID": "8C818C86-1D0F-4736-AE38-77EFBCD47D18",
           "height": 30,
           "width": 30,
-          "x": 149,
+          "x": 100,
           "y": -25
         },
         "hasBackgroundColor": false,
@@ -12989,7 +12986,6 @@
         "horizontalRulerData": {
           "_class": "rulerData",
           "base": 0,
-          "do_objectID": "BE62C961-96A5-4A12-86C5-265FF06B2735",
           "guides": [
           ]
         },
@@ -13006,10 +13002,9 @@
           {
             "_class": "shapeGroup",
             "clippingMaskMode": 0,
-            "do_objectID": "59F6EE35-252F-4515-B6DB-6390514EDFCC",
+            "do_objectID": "AFD3231C-A6E8-40AA-8923-EB100FEDEB3B",
             "exportOptions": {
               "_class": "exportOptions",
-              "do_objectID": "9586B9DC-55BE-481B-958D-BF0739342556",
               "exportFormats": [
               ],
               "includedLayerIds": [
@@ -13020,7 +13015,6 @@
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
-              "do_objectID": "200963A8-46F5-40A6-AE81-A5159955F7D3",
               "height": 30,
               "width": 30,
               "x": 0,
@@ -13037,11 +13031,10 @@
               {
                 "_class": "rectangle",
                 "booleanOperation": -1,
-                "do_objectID": "905C72E9-FDC5-4E86-BAEB-BE1DE717FD4E",
+                "do_objectID": "0D8E2DB4-EC08-4FAD-965F-8D8E1F4E4844",
                 "edited": false,
                 "exportOptions": {
                   "_class": "exportOptions",
-                  "do_objectID": "290242B7-C295-4855-88F3-E58724ED1B24",
                   "exportFormats": [
                   ],
                   "includedLayerIds": [
@@ -13053,7 +13046,6 @@
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
-                  "do_objectID": "1D50328D-35A9-4385-ACDA-0E5140EE2B33",
                   "height": 30,
                   "width": 30,
                   "x": 0,
@@ -13141,7 +13133,6 @@
                   "thickness": 1
                 }
               ],
-              "do_objectID": "2148C085-8FE9-457C-A242-5E6D2F6FD3BF",
               "endDecorationType": 0,
               "fills": [
                 {
@@ -13149,9 +13140,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.8313725490196078,
-                    "green": 0.6557225063938619,
-                    "red": 0
+                    "blue": 0.847,
+                    "green": 0.847,
+                    "red": 0.847
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -13188,7 +13179,7 @@
             "windingRule": 1
           }
         ],
-        "name": "Fill/Blue",
+        "name": "Fill/Grey",
         "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -13197,12 +13188,11 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "do_objectID": "D568D937-8C7D-48B5-832D-29230D825A10",
           "endDecorationType": 0,
           "miterLimit": 10,
           "startDecorationType": 0
         },
-        "symbolID": "61E47F75-4B36-44BF-A95A-F70EDD80B432",
+        "symbolID": "EA0FB39E-5D53-4136-AF6A-6728198C4EA1",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -13212,7 +13202,6 @@
         "verticalRulerData": {
           "_class": "rulerData",
           "base": 0,
-          "do_objectID": "040FBC48-5FFF-410A-B41E-582E3EBA97DD",
           "guides": [
           ]
         }
@@ -13224,15 +13213,13 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "do_objectID": "9B19C945-2A73-424D-9220-8A7D1BEF51D4",
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 89,
-        "do_objectID": "ED8917D3-9482-4664-9796-08B86C910B71",
+        "changeIdentifier": 54,
+        "do_objectID": "5A0F27E8-F9FB-44DA-80A4-9258CAC4818A",
         "exportOptions": {
           "_class": "exportOptions",
-          "do_objectID": "DE1C20ED-379C-465F-835C-216696E26C6B",
           "exportFormats": [
           ],
           "includedLayerIds": [
@@ -13243,10 +13230,9 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "do_objectID": "8C818C86-1D0F-4736-AE38-77EFBCD47D18",
           "height": 30,
           "width": 30,
-          "x": 149,
+          "x": 100,
           "y": -25
         },
         "hasBackgroundColor": false,
@@ -13254,7 +13240,6 @@
         "horizontalRulerData": {
           "_class": "rulerData",
           "base": 0,
-          "do_objectID": "BE62C961-96A5-4A12-86C5-265FF06B2735",
           "guides": [
           ]
         },
@@ -13271,10 +13256,9 @@
           {
             "_class": "shapeGroup",
             "clippingMaskMode": 0,
-            "do_objectID": "59F6EE35-252F-4515-B6DB-6390514EDFCC",
+            "do_objectID": "AFD3231C-A6E8-40AA-8923-EB100FEDEB3B",
             "exportOptions": {
               "_class": "exportOptions",
-              "do_objectID": "9586B9DC-55BE-481B-958D-BF0739342556",
               "exportFormats": [
               ],
               "includedLayerIds": [
@@ -13285,7 +13269,6 @@
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
-              "do_objectID": "200963A8-46F5-40A6-AE81-A5159955F7D3",
               "height": 30,
               "width": 30,
               "x": 0,
@@ -13302,11 +13285,10 @@
               {
                 "_class": "rectangle",
                 "booleanOperation": -1,
-                "do_objectID": "905C72E9-FDC5-4E86-BAEB-BE1DE717FD4E",
+                "do_objectID": "0D8E2DB4-EC08-4FAD-965F-8D8E1F4E4844",
                 "edited": false,
                 "exportOptions": {
                   "_class": "exportOptions",
-                  "do_objectID": "290242B7-C295-4855-88F3-E58724ED1B24",
                   "exportFormats": [
                   ],
                   "includedLayerIds": [
@@ -13318,7 +13300,6 @@
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
-                  "do_objectID": "1D50328D-35A9-4385-ACDA-0E5140EE2B33",
                   "height": 30,
                   "width": 30,
                   "x": 0,
@@ -13406,7 +13387,6 @@
                   "thickness": 1
                 }
               ],
-              "do_objectID": "2148C085-8FE9-457C-A242-5E6D2F6FD3BF",
               "endDecorationType": 0,
               "fills": [
                 {
@@ -13414,9 +13394,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.8313725490196078,
-                    "green": 0.6557225063938619,
-                    "red": 0
+                    "blue": 0.847,
+                    "green": 0.847,
+                    "red": 0.847
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -13453,7 +13433,7 @@
             "windingRule": 1
           }
         ],
-        "name": "Fill/Blue",
+        "name": "Fill/Grey",
         "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -13462,12 +13442,11 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "do_objectID": "D568D937-8C7D-48B5-832D-29230D825A10",
           "endDecorationType": 0,
           "miterLimit": 10,
           "startDecorationType": 0
         },
-        "symbolID": "DD13225F-ED93-4A21-A03B-EC2274B59248",
+        "symbolID": "F92F3289-4FAE-459D-949D-903006DC98DD",
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
@@ -13477,7 +13456,6 @@
         "verticalRulerData": {
           "_class": "rulerData",
           "base": 0,
-          "do_objectID": "040FBC48-5FFF-410A-B41E-582E3EBA97DD",
           "guides": [
           ]
         }
