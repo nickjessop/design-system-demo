@@ -12949,6 +12949,539 @@
           ]
         }
       }
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "E91B8DC8-84CE-4572-84B8-DCCDCB18357C",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "do_objectID": "9B19C945-2A73-424D-9220-8A7D1BEF51D4",
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 89,
+        "do_objectID": "ED8917D3-9482-4664-9796-08B86C910B71",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "DE1C20ED-379C-465F-835C-216696E26C6B",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "8C818C86-1D0F-4736-AE38-77EFBCD47D18",
+          "height": 30,
+          "width": 30,
+          "x": 149,
+          "y": -25
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "BE62C961-96A5-4A12-86C5-265FF06B2735",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "59F6EE35-252F-4515-B6DB-6390514EDFCC",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "9586B9DC-55BE-481B-958D-BF0739342556",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "do_objectID": "200963A8-46F5-40A6-AE81-A5159955F7D3",
+              "height": 30,
+              "width": 30,
+              "x": 0,
+              "y": 0
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "905C72E9-FDC5-4E86-BAEB-BE1DE717FD4E",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "290242B7-C295-4855-88F3-E58724ED1B24",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "1D50328D-35A9-4385-ACDA-0E5140EE2B33",
+                  "height": 30,
+                  "width": 30,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Rectangle 2",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "do_objectID": "2148C085-8FE9-457C-A242-5E6D2F6FD3BF",
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.8313725490196078,
+                    "green": 0.6557225063938619,
+                    "red": 0
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                  "constraints": {
+                    "aspectRatio": {
+                      "constant": 30,
+                      "enabled": 1,
+                      "modelID": "constraint_268de42b-b905-44c4-bf31-6d7a55d36524",
+                      "model_class": "ADModelConstraint",
+                      "model_version": 0.1,
+                      "multiplier": 30
+                    },
+                    "automatic": 1,
+                    "modelID": "viewConstraints_720cab0d-9cbb-4e02-b9b5-48a9ca7e022b",
+                    "model_class": "ADModelViewConstraints",
+                    "model_version": 0.1,
+                    "scaleFactor": 1
+                  }
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Fill/Blue",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "D568D937-8C7D-48B5-832D-29230D825A10",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "61E47F75-4B36-44BF-A95A-F70EDD80B432",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "040FBC48-5FFF-410A-B41E-582E3EBA97DD",
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "web-library",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "do_objectID": "9B19C945-2A73-424D-9220-8A7D1BEF51D4",
+          "green": 1,
+          "red": 1
+        },
+        "changeIdentifier": 89,
+        "do_objectID": "ED8917D3-9482-4664-9796-08B86C910B71",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "DE1C20ED-379C-465F-835C-216696E26C6B",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "8C818C86-1D0F-4736-AE38-77EFBCD47D18",
+          "height": 30,
+          "width": 30,
+          "x": 149,
+          "y": -25
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "BE62C961-96A5-4A12-86C5-265FF06B2735",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+          {
+            "_class": "shapeGroup",
+            "clippingMaskMode": 0,
+            "do_objectID": "59F6EE35-252F-4515-B6DB-6390514EDFCC",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "9586B9DC-55BE-481B-958D-BF0739342556",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": true,
+              "do_objectID": "200963A8-46F5-40A6-AE81-A5159955F7D3",
+              "height": 30,
+              "width": 30,
+              "x": 0,
+              "y": 0
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 1,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "do_objectID": "905C72E9-FDC5-4E86-BAEB-BE1DE717FD4E",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "290242B7-C295-4855-88F3-E58724ED1B24",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "1D50328D-35A9-4385-ACDA-0E5140EE2B33",
+                  "height": 30,
+                  "width": 30,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "Path",
+                "nameIsFixed": false,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false
+              }
+            ],
+            "name": "Rectangle 2",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "borders": [
+                {
+                  "_class": "border",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.592,
+                    "green": 0.592,
+                    "red": 0.592
+                  },
+                  "fillType": 0,
+                  "isEnabled": false,
+                  "position": 1,
+                  "thickness": 1
+                }
+              ],
+              "do_objectID": "2148C085-8FE9-457C-A242-5E6D2F6FD3BF",
+              "endDecorationType": 0,
+              "fills": [
+                {
+                  "_class": "fill",
+                  "color": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.8313725490196078,
+                    "green": 0.6557225063938619,
+                    "red": 0
+                  },
+                  "fillType": 0,
+                  "isEnabled": true,
+                  "noiseIndex": 0,
+                  "noiseIntensity": 0,
+                  "patternFillType": 1,
+                  "patternTileScale": 1
+                }
+              ],
+              "miterLimit": 10,
+              "startDecorationType": 0
+            },
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                  "constraints": {
+                    "aspectRatio": {
+                      "constant": 30,
+                      "enabled": 1,
+                      "modelID": "constraint_268de42b-b905-44c4-bf31-6d7a55d36524",
+                      "model_class": "ADModelConstraint",
+                      "model_version": 0.1,
+                      "multiplier": 30
+                    },
+                    "automatic": 1,
+                    "modelID": "viewConstraints_720cab0d-9cbb-4e02-b9b5-48a9ca7e022b",
+                    "model_class": "ADModelViewConstraints",
+                    "model_version": 0.1,
+                    "scaleFactor": 1
+                  }
+                }
+              }
+            },
+            "windingRule": 1
+          }
+        ],
+        "name": "Fill/Blue",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "D568D937-8C7D-48B5-832D-29230D825A10",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "DD13225F-ED93-4A21-A03B-EC2274B59248",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "040FBC48-5FFF-410A-B41E-582E3EBA97DD",
+          "guides": [
+          ]
+        }
+      }
     }
   ],
   "foreignTextStyles": [
