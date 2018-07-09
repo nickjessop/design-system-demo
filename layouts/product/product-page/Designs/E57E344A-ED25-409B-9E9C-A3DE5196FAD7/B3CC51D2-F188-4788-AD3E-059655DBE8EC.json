@@ -32,6 +32,12 @@
       "do_objectID": "CE9F9AAE-DA82-464A-9268-67C0970A9AE2",
       "overrideName": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B/6EA5EAA3-C5F4-4059-A694-82FE09E47BD3_stringValue",
       "value": "Order now"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0E04321-9519-4DC0-95F0-16256152E3F6",
+      "overrideName": "D35CB103-5F14-4C11-A9A0-ACF80D7298F6_symbolID",
+      "value": "F92F3289-4FAE-459D-949D-903006DC98DD"
     }
   ],
   "resizingConstraint": 63,
