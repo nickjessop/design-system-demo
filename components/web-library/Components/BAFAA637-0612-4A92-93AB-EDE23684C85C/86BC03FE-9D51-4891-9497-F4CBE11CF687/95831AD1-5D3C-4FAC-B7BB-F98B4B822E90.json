@@ -1,9 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": 0,
-  "do_objectID": "B3CC51D2-F188-4788-AD3E-059655DBE8EC",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "95831AD1-5D3C-4FAC-B7BB-F98B4B822E90",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A2C54BC7-4F78-470D-867F-F7380F3D90FB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,49 +13,46 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 56,
-    "width": 260,
-    "x": 600,
-    "y": 370
+    "constrainProportions": true,
+    "do_objectID": "F75852CF-9C46-4251-A208-5D9797CD3A66",
+    "height": 36,
+    "width": 44.25254899418068,
+    "x": 0.3073868149324426,
+    "y": 0.2734375
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a5cfded3c4d4944a97b46a867e98f9dd7532c8c3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CE9F9AAE-DA82-464A-9268-67C0970A9AE2",
-      "overrideName": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B/6EA5EAA3-C5F4-4059-A694-82FE09E47BD3_stringValue",
-      "value": "Get it"
-    }
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "14CD5B01-CDB2-48A2-B4E4-374C9F349215",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "487F34AF-FFB9-44F3-86F6-6B0B8DC95AE9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

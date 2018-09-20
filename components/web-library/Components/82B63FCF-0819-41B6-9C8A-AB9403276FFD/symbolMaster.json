@@ -1,16 +1,19 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "A83A8CDF-B2AE-44FD-9F47-6EA73A21DFAC",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "9DCB42EF-BD4A-464F-9BDE-6FD43E606818",
+  "changeIdentifier": 323,
+  "do_objectID": "82B63FCF-0819-41B6-9C8A-AB9403276FFD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E616604E-6A72-436C-BD3A-D975EF0FC08C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,20 +24,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1026,
-    "width": 1024,
-    "x": 16,
-    "y": 45
+    "do_objectID": "B77FBC6F-C3EC-44F9-A392-57E3F5155785",
+    "height": 30,
+    "width": 30,
+    "x": 295,
+    "y": -25
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "3A7101F0-EF3A-4060-8B73-F8FF1B6F96CD",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,11 +51,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "645B2FD9-D3AD-45E9-9A1E-32B2D1523CCB"
+      "class": "shapeGroup",
+      "id": "98921FB0-4082-45F9-80F1-EE4B7E2DA9CF"
     }
   ],
-  "name": "Homepage",
+  "name": "Fill/Black",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -58,23 +64,26 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "D8630F5E-8960-4912-8A53-A3D20DE4A2B7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "24E24756-22C8-418A-88AA-444623F51B32",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "EA0A63EB-5675-40FC-872A-A902465C20A7",
     "guides": [
     ]
   }

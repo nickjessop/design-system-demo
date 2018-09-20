@@ -1,14 +1,15 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": 0,
-  "do_objectID": "9DCB42EF-BD4A-464F-9BDE-6FD43E606818",
+  "changeIdentifier": 261,
+  "do_objectID": "2662F2FE-208B-4371-B4EE-96256313A3C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,12 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1026,
-    "width": 1024,
-    "x": 16,
-    "y": 45
+    "height": 45,
+    "width": 184,
+    "x": 100,
+    "y": 69
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,11 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "645B2FD9-D3AD-45E9-9A1E-32B2D1523CCB"
+      "class": "text",
+      "id": "6EA5EAA3-C5F4-4059-A694-82FE09E47BD3"
     }
   ],
-  "name": "Homepage",
+  "name": "Label/White",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,13 +65,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "528F691B-D856-48E4-BC26-F2A2D224DA3D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

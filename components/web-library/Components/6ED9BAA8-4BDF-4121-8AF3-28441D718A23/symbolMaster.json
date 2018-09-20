@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "9DCB42EF-BD4A-464F-9BDE-6FD43E606818",
+  "changeIdentifier": 222,
+  "do_objectID": "6ED9BAA8-4BDF-4121-8AF3-28441D718A23",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1026,
-    "width": 1024,
-    "x": 16,
-    "y": 45
+    "height": 30,
+    "width": 30,
+    "x": 249,
+    "y": -25
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,11 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "645B2FD9-D3AD-45E9-9A1E-32B2D1523CCB"
+      "class": "shapeGroup",
+      "id": "E79A22D9-C741-4E5C-8D18-EFF165BC06D7"
     }
   ],
-  "name": "Homepage",
+  "name": "Fill/White",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "361DE5DA-D962-4E3C-9FCD-C19C1E2AC6DD",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

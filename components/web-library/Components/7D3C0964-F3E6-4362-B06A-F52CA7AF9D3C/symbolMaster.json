@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "9DCB42EF-BD4A-464F-9BDE-6FD43E606818",
+  "changeIdentifier": 1011,
+  "do_objectID": "7D3C0964-F3E6-4362-B06A-F52CA7AF9D3C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1026,
-    "width": 1024,
-    "x": 16,
-    "y": 45
+    "height": 56,
+    "width": 184,
+    "x": 1742,
+    "y": -25
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,11 +47,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "group",
+      "id": "D3524BC2-F0DF-4D5E-971F-E602A2BE52A9"
+    },
+    {
       "class": "symbolInstance",
-      "id": "645B2FD9-D3AD-45E9-9A1E-32B2D1523CCB"
+      "id": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B"
     }
   ],
-  "name": "Homepage",
+  "name": "Button",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,13 +69,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B301CD52-D73E-48C9-AB9E-4E4E6BD4C88B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

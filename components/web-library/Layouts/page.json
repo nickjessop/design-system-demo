@@ -1,7 +1,7 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": 0,
-  "do_objectID": "B3CC51D2-F188-4788-AD3E-059655DBE8EC",
+  "do_objectID": "8C3237B4-8935-446D-B604-3839A44F9063",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,32 +14,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 260,
-    "x": 600,
-    "y": 370
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -426,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "CE9F9AAE-DA82-464A-9268-67C0970A9AE2",
-      "overrideName": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B/6EA5EAA3-C5F4-4059-A694-82FE09E47BD3_stringValue",
-      "value": "Get it"
+      "class": "symbolMaster",
+      "id": "317BD01B-DDF3-4FAE-B619-15BD09CB01A2"
+    },
+    {
+      "class": "group",
+      "id": "10B70841-2A0C-4AA7-971C-3901D15506EF"
     }
   ],
+  "name": "Layouts",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -48,12 +56,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "487F34AF-FFB9-44F3-86F6-6B0B8DC95AE9",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -361,
+    "guides": [
+    ]
+  }
 }

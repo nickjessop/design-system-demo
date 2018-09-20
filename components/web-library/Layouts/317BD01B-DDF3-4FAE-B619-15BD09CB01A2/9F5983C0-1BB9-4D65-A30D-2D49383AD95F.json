@@ -1,9 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": 0,
-  "do_objectID": "B3CC51D2-F188-4788-AD3E-059655DBE8EC",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9F5983C0-1BB9-4D65-A30D-2D49383AD95F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8F3C4053-824D-4C9C-BDA5-B51C14A0A28B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -11,49 +13,46 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 56,
-    "width": 260,
-    "x": 600,
-    "y": 370
+    "constrainProportions": true,
+    "do_objectID": "D38C995B-24D9-4C83-8190-8B58AA8613D5",
+    "height": 173,
+    "width": 259,
+    "x": 742,
+    "y": 473
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b7e3433d64bdb3641d0f3569c639ad2afb807ae9.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button",
+  "name": "Bitmap Copy 2",
   "nameIsFixed": false,
-  "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CE9F9AAE-DA82-464A-9268-67C0970A9AE2",
-      "overrideName": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B/6EA5EAA3-C5F4-4059-A694-82FE09E47BD3_stringValue",
-      "value": "Get it"
-    }
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "11533971-CE7A-410A-B887-42C2D329F2EF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "487F34AF-FFB9-44F3-86F6-6B0B8DC95AE9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

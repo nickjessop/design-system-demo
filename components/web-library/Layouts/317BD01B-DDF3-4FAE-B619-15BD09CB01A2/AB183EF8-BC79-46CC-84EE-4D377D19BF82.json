@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "B3CC51D2-F188-4788-AD3E-059655DBE8EC",
+  "do_objectID": "AB183EF8-BC79-46CC-84EE-4D377D19BF82",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C98A35A9-9E32-48DC-A92D-89602EED1CCC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 260,
-    "x": 600,
-    "y": 370
+    "do_objectID": "D139CD6A-597C-463C-8571-AD79B756E10C",
+    "height": 187,
+    "width": 1024,
+    "x": 0,
+    "y": 837
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button",
+  "name": "Footer",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CE9F9AAE-DA82-464A-9268-67C0970A9AE2",
-      "overrideName": "EA829DB6-67B6-4A4A-9E9E-A83CF6324C9B/6EA5EAA3-C5F4-4059-A694-82FE09E47BD3_stringValue",
-      "value": "Get it"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,12 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4DD83029-2427-48FF-BD42-113F25B699B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "487F34AF-FFB9-44F3-86F6-6B0B8DC95AE9",
+  "symbolID": "B661EFEE-0B38-487E-B7DE-13A075994C8E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

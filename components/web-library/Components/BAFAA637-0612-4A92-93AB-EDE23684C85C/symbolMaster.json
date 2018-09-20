@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "9DCB42EF-BD4A-464F-9BDE-6FD43E606818",
+  "changeIdentifier": 239,
+  "do_objectID": "BAFAA637-0612-4A92-93AB-EDE23684C85C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1026,
+    "height": 187,
     "width": 1024,
-    "x": 16,
-    "y": 45
+    "x": 384,
+    "y": -25
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,12 +47,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "645B2FD9-D3AD-45E9-9A1E-32B2D1523CCB"
+      "class": "shapeGroup",
+      "id": "ECF9C5CD-4804-46C3-AB5D-A72F892AB06D"
+    },
+    {
+      "class": "text",
+      "id": "6DA526D6-A346-40BB-A647-48C0B98C6964"
+    },
+    {
+      "class": "text",
+      "id": "850169E2-61D6-467C-88C5-18FAA4831452"
+    },
+    {
+      "class": "group",
+      "id": "86BC03FE-9D51-4891-9497-F4CBE11CF687"
     }
   ],
-  "name": "Homepage",
-  "nameIsFixed": true,
+  "name": "Footer",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,13 +77,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B661EFEE-0B38-487E-B7DE-13A075994C8E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
