@@ -1,0 +1,42 @@
+{
+    "commit": "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+    "pagesAndArtboards": {
+        "05D11E27-E279-453A-9B42-350876FDA60B": {
+            "name": "Designs",
+            "artboards": {
+                "9DCB42EF-BD4A-464F-9BDE-6FD43E606818": {
+                    "name": "Homepage"
+                },
+                "E57E344A-ED25-409B-9E9C-A3DE5196FAD7": {
+                    "name": "Product"
+                },
+                "B6ACE98A-ACCB-4813-BCFB-11399D31553A": {
+                    "name": "Menu"
+                }
+            }
+        }
+    },
+    "version": 105,
+    "fonts": [
+        "AvenirNext-Bold",
+        "AvenirNext-Regular"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+        "appVersion": "51.3",
+        "build": 57544,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 99,
+        "version": 105,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.57544"
+    ],
+    "appVersion": "51.3",
+    "build": 57544
+}
