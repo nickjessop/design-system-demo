@@ -1,0 +1,9 @@
+#!/bin/sh
+# Make sure this file executable, run $chmod -x .git/hooks/pre-commit in the root folder
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [ "$branch" = "master" ]; then
+  echo "You can't commit directly to master branch, please create a design branch."
+  exit 1
+fi
